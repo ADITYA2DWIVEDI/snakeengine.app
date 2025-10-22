@@ -1,0 +1,7 @@
+{
+  "name": "SnakeEngine.AI",
+  "description": "A powerful and friendly AI chatbot app with a modern, glass-like UI. It supports text and image inputs, AI image generation, and provides a suite of productivity tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
